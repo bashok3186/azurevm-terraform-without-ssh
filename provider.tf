@@ -4,4 +4,5 @@ variable "prefix" {
 
 variable "location" {
   description = "eastus"
+  #just input to get the DC location
 }
