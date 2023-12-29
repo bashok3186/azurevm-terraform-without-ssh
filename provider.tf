@@ -1,5 +1,5 @@
 variable "prefix" {
-  description = "terra-demo123-example"
+  description = "terraform-demo"
 }
 
 variable "location" {
