@@ -1,5 +1,5 @@
 variable "prefix" {
-  description = "terra-demo"
+  description = "terra-demo-example"
 }
 
 variable "location" {
